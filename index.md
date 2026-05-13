@@ -1,4 +1,4 @@
-## Evaluating Large Language Models for Simulating Persuasion Dynamics in Online Influence Campaigns
+# Green Bots versus Red Bots: Evaluating Large Language Models for Simulating Persuasion Dynamics in Online Influence Campaigns
 
 **Filip Muntean**¹·² &nbsp; **Majd Al Ali**¹·² &nbsp; **Lucia Donatelli**¹ &nbsp; **Jurriaan van Diggelen**²
 
