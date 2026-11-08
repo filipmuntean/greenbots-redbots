@@ -16,3 +16,20 @@ Large language models (LLMs) are increasingly used to simulate social interactio
 [PDF](Green_Bots_versus_Red_Bots__Evaluating_Large_Language_Models_for_Simulating_Persuasion_Dynamics_in_Online_Influence_Campaigns_LREC.pdf) &nbsp; 
 
 [Published Article](https://lrec.elra.info/lrec2026-main-871)
+
+## Citation
+
+```bibtex
+@inproceedings{ali-etal-2026-green,
+  title = {Green Bots versus Red Bots: Evaluating Large Language Models for Simulating Persuasion Dynamics in Online Influence Campaigns},
+  author = {Ali, Majd Eddin Al and Muntean, Filip Mihai and Donatelli, Lucia and Diggelen, Jurriaan van},
+  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
+  month = {May},
+  year = {2026},
+  pages = {11152--11171},
+  address = {Palma, Mallorca, Spain},
+  publisher = {European Language Resources Association (ELRA)},
+  editor = {Piperidis, Stelios and Bel, Núria and van den Heuvel, Henk and Ide, Nancy and Krek, Simon and Toral, Antonio},
+  doi = {10.63317/3ucmt3dnin5n}
+}
+```
